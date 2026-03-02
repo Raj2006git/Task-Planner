@@ -43,7 +43,7 @@ Build Tool: Vite
 
 1️. Clone the repository    
 
-git clone https://github.com/your-username/task-planner.git
+git clone https://github.com/Raj2006git/task-planner.git
 
 cd task-planner
 
