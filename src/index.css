@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Permanent+Marker&display=swap');
+
+@theme {
+  --font-marker: "Permanent Marker", cursive;
+  --font-indie: "Indie Flower", cursive; 
+}
